@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wifi</string>
+    <string name="Save_To_File">Save To File</string>
+    <string name="Name">Name</string>
+    <string name="text">text</string>
+    <string name="TextView">TextView</string>
+    <string name="Load">Load</string>
+    <string name="get_wifi_info">Get Wifi Info</string>
+</resources>
